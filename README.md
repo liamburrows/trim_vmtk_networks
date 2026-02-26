@@ -22,11 +22,11 @@ This code runs in Python within the 3D Slicer environment, accessed via Jupyter 
 
 <table>
   <tr>
-    <td><img src="ims/mesh.png" width="400"/></td>
-    <td><img src="ims/net.png" width="400"/></td>
+    <td align="center"><img src="ims/mesh.png" width="400"/><br/><b>Figure 1:</b> Mesh</td>
+    <td align="center"><img src="ims/net.png" width="400"/><br/><b>Figure 2:</b> Network from vmtk</td>
   </tr>
   <tr>
-    <td><img src="ims/root.png" width="400"/></td>
-    <td><img src="ims/trim.png" width="400"/></td>
+    <td align="center"><img src="ims/root.png" width="400"/><br/><b>Figure 3:</b> Root of artery</td>
+    <td align="center"><img src="ims/trim.png" width="400"/><br/><b>Figure 4:</b> Trimmed network</td>
   </tr>
 </table>
