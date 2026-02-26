@@ -1,5 +1,6 @@
-This code runs in Python within the 3D Slicer environment, accessed via Jupyter Notebook using the SlicerJupyter extension.
+This code takes a segmented blood vessels (designed for use on the pulmonary arterial tree), extracts the network (centreline) using vmtk, and then detects the root of the vessel, and trims the network down up to a specified number of bifurcations.
 
+This code runs in Python within the 3D Slicer environment, accessed via Jupyter Notebook using the SlicerJupyter extension.
 
 ### Setup
 1. Install 3D Slicer and the above extensions via the Extension Manager.
